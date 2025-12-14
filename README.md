@@ -1,6 +1,6 @@
 # federal-crash-severity-analytics
 
-###US Traffic Accident Severity Prediction
+### US Traffic Accident Severity Prediction
    - ** A machine learning pipeline that preprocesses U.S. traffic accident data and trains to predict accident severity based on environmental, temporal, and road conditions.
 
 ## Overview:
