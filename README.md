@@ -30,9 +30,9 @@ Results and Visuals
         - Training and validation curves show stable convergence with early stopping, but class imbalance hinders performance on minority severity classes.
 
 ## Future Enhancements and Ideas
-   ** Shifting away but not leaving Severity behind
-   ** Use regression models like Gradient Boosting (e.g., XGBoost, LightGBM) or a Deep Neural Network trained with a Mean Absolute Error (MAE) or Mean Squared Error (MSE) loss function.
-   ** Spatial-Temporal Modeling
+   - ** Shifting away but not leaving Severity behind
+   - ** Use regression models like Gradient Boosting (e.g., XGBoost, LightGBM) or a Deep Neural Network trained with a Mean Absolute Error (MAE) or Mean Squared Error (MSE) loss function.
+   - ** Spatial-Temporal Modeling
       ** Using Recurrent Neural Networks (RNNs) or Time-Series Techniques to model the severity as a function of previous events on the same road segment.
-   ** Explainable AI (XAI) for Trust and Deployment
+   - ** Explainable AI (XAI) for Trust and Deployment
       ** Severity Confidence (%) and Likelihood based on condition(%)
