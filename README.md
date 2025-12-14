@@ -15,7 +15,7 @@ Features:
     Multiple scaling approaches
     Early stopping and model checkpointing
 
-Results and Visuals
+##Results and Visuals
     - ![Accidents Across Different Hours of the Day](images/Accidents_By_Day.png)
         - Accident frequency is highest during the morning and evening commute hours, highlighting the significance of incorporating rush-hour indicators into feature engineering.
     - ![Accidents by Season](images/Seasons_Chart.png)
