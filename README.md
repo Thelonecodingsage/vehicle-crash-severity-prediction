@@ -29,7 +29,7 @@ Results and Visuals
     - ![Modeling Performance](images/Training_Stats.png)
         - Training and validation curves show stable convergence with early stopping, but class imbalance hinders performance on minority severity classes.
 
-Future Enhancements and Ideas:
+##Future Enhancements and Ideas:
     
     Shifting away but not leaving Severity behind
     
